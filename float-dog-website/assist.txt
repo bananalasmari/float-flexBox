@@ -1,0 +1,47 @@
+ <h1>Dogs rule the world</h1>
+
+==
+
+// nave => 
+
+          <span>
+                Home
+            </span>
+            <span>
+                About
+            </span>
+            <span>
+                Our Story
+            </span>
+            <span>
+                DogBlog
+            </span>
+            <span>
+                Contact
+            </span>
+
+
+// section  => 
+
+  <img src="./img/dog-photo.jpg" alt="dogpic">
+
+	  <h2>Thinking about dogs?</h2>
+
+	  <p><span>I know I always am! Except when I am thinking about puppies.</span></p>
+
+	    omg how did you know?
+
+	  <h3>Here are some reasons dogs are great:</h3>
+
+	        <ol>
+                    <li>They're loyal</li>
+                    <li>They always make you happy</li>
+                    <li>They wiggle their tail</li>
+                </ol>
+
+
+// footer =>
+
+   <p class="contacts">Find us on <a href="#">twitter</a>, <a href="#">facebook</a> and <a href="#">tumblr</a>!</p>
+   <img src="/img/dog-logo.jpg" alt="dog-logo" />
+  	<p> ©2020 by a dog lover who loves dogs</p>
