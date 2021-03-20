@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kranky&display=swap'); 
+
+body{
+    background-image: url(/img/rainbow-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bigbox{
+    text-align: center;
+    background-color: white;
+    width: 60%;
+    margin: 0 auto;
+    height: 1030px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 40px;
+}
+
+#dog{
+   
+    float: left;
+    width: 297px;
+    height: 299px;
+    border-radius: 50%;
+    margin: 40px;
+    font-family: Kranky;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    
+}
+
+
+footer img{
+    height: 40px;
+
+}
+
+#text{
+
+    text-align: left;
+    padding-left: 50px;
+    padding-top: 80px;
+    padding-bottom: 21%;
+
+
+
+}
+
+button{
+    background-color: skyblue;
+    color: white;
+    border-style: none;
+    width: 450px;
+    padding: 10px;
+}
+
+li{
+    line-height: 40px;
+position: relative;
+left: 15px;
+}
+
+#nav{
+    padding-top: 20px;
+}
+
+span{
+    padding-right: 20px;
+}
+
+a{
+  color: skyblue; 
+  text-decoration: none; 
+}
+
+#topic{
+    font-family: Kranky;
+   
+}
